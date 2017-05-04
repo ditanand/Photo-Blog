@@ -1,0 +1,3 @@
+  default: &default
+    S3_BUCKET: "markly-test"
+    S3_HOST: "d2tdan9zrw4vrc"
